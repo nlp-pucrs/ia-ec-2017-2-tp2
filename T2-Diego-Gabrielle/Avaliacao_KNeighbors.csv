@@ -1,380 +1,380 @@
-,Unnamed: 0,RODADA,MANDANTE,GOLS_MANDANTE,VISITANTE,GOLS_VISITANTE,ANO,RESULTADO,RESULTADO_PREDITO
-0,284,17,Am茅rica-MG,0.0,Gr锚mio,0.0,2016,,Vit贸ria_Mandante
-1,263,27,Am茅rica-MG,1.0,Botafogo,0.0,2016,,Vit贸ria_Mandante
-2,276,33,Am茅rica-MG,1.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-3,277,19,Am茅rica-MG,1.0,Santos,0.0,2016,,Vit贸ria_Mandante
-4,285,26,Am茅rica-MG,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-5,293,32,Am茅rica-MG,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-6,316,6,Am茅rica-MG,1.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-7,262,35,Am茅rica-MG,0.0,Flamengo,1.0,2016,,Empate
-8,266,1,Am茅rica-MG,0.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-9,282,11,Am茅rica-MG,0.0,Atl茅tico-MG,1.0,2016,,Vit贸ria_Mandante
-10,287,3,Am茅rica-MG,1.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-11,294,9,Am茅rica-MG,2.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-12,264,12,Am茅rica-MG,0.0,Corinthians,2.0,2016,,Vit贸ria_Visitante
-13,275,29,Am茅rica-MG,0.0,Palmeiras,2.0,2016,,Vit贸ria_Visitante
-14,283,23,Am茅rica-MG,0.0,Cruzeiro,2.0,2016,,Empate
-15,303,5,Am茅rica-MG,1.0,Ponte Preta,2.0,2016,,Vit贸ria_Mandante
-16,315,21,Am茅rica-MG,1.0,Chapecoense,2.0,2016,,Vit贸ria_Mandante
-17,292,37,Am茅rica-MG,2.0,Sport,2.0,2016,,Empate
-18,344,15,Am茅rica-MG,0.0,Santa Cruz,3.0,2016,,Vit贸ria_Mandante
-19,277,1,Atl茅tico-MG,1.0,Santos,0.0,2016,,Vit贸ria_Mandante
-20,292,25,Atl茅tico-MG,1.0,Sport,0.0,2016,,Vit贸ria_Mandante
-21,293,21,Atl茅tico-MG,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-22,303,9,Atl茅tico-MG,3.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-23,316,32,Atl茅tico-MG,3.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-24,327,30,Atl茅tico-MG,3.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-25,344,17,Atl茅tico-MG,3.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-26,266,5,Atl茅tico-MG,1.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-27,275,35,Atl茅tico-MG,1.0,Palmeiras,1.0,2016,,Vit贸ria_Mandante
-28,264,10,Atl茅tico-MG,2.0,Corinthians,1.0,2016,,Vit贸ria_Mandante
-29,287,23,Atl茅tico-MG,2.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-30,294,15,Atl茅tico-MG,2.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-31,285,27,Atl茅tico-MG,3.0,Internacional,1.0,2016,,Vit贸ria_Mandante
-32,315,19,Atl茅tico-MG,3.0,Chapecoense,1.0,2016,,Vit贸ria_Mandante
-33,276,37,Atl茅tico-MG,1.0,S茫o Paulo,2.0,2016,,Vit贸ria_Mandante
-34,262,33,Atl茅tico-MG,2.0,Flamengo,2.0,2016,,Empate
-35,284,3,Atl茅tico-MG,0.0,Gr锚mio,3.0,2016,,Vit贸ria_Visitante
-36,283,7,Atl茅tico-MG,2.0,Cruzeiro,3.0,2016,,Empate
-37,263,12,Atl茅tico-MG,5.0,Botafogo,3.0,2016,,Vit贸ria_Mandante
-38,262,38,Atl茅tico-PR,0.0,Flamengo,0.0,2016,,Empate
-39,263,22,Atl茅tico-PR,1.0,Botafogo,0.0,2016,,Vit贸ria_Mandante
-40,266,16,Atl茅tico-PR,1.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-41,276,26,Atl茅tico-PR,1.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-42,277,9,Atl茅tico-PR,1.0,Santos,0.0,2016,,Vit贸ria_Mandante
-43,283,33,Atl茅tico-PR,1.0,Cruzeiro,0.0,2016,,Vit贸ria_Mandante
-44,327,13,Atl茅tico-PR,1.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-45,344,6,Atl茅tico-PR,1.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-46,264,18,Atl茅tico-PR,2.0,Corinthians,0.0,2016,,Vit贸ria_Mandante
-47,284,11,Atl茅tico-PR,2.0,Gr锚mio,0.0,2016,,Vit贸ria_Mandante
-48,292,36,Atl茅tico-PR,2.0,Sport,0.0,2016,,Empate
-49,294,31,Atl茅tico-PR,2.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-50,303,27,Atl茅tico-PR,3.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-51,275,20,Atl茅tico-PR,0.0,Palmeiras,1.0,2016,,Vit贸ria_Visitante
-52,282,2,Atl茅tico-PR,1.0,Atl茅tico-MG,1.0,2016,,Empate
-53,287,15,Atl茅tico-PR,1.0,Vit贸ria,1.0,2016,,Empate
-54,285,24,Atl茅tico-PR,2.0,Internacional,1.0,2016,,Vit贸ria_Mandante
-55,316,4,Atl茅tico-PR,2.0,Figueirense,1.0,2016,,Vit贸ria_Mandante
-56,315,29,Atl茅tico-PR,3.0,Chapecoense,1.0,2016,,Vit贸ria_Mandante
-57,294,33,Botafogo,0.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-58,316,10,Botafogo,0.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-59,266,23,Botafogo,1.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-60,285,30,Botafogo,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-61,264,28,Botafogo,2.0,Corinthians,0.0,2016,,Vit贸ria_Mandante
-62,292,21,Botafogo,3.0,Sport,0.0,2016,,Vit贸ria_Mandante
-63,276,1,Botafogo,0.0,S茫o Paulo,1.0,2016,,Vit贸ria_Mandante
-64,277,25,Botafogo,0.0,Santos,1.0,2016,,Vit贸ria_Mandante
-65,283,5,Botafogo,0.0,Cruzeiro,1.0,2016,,Empate
-66,287,7,Botafogo,1.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-67,303,37,Botafogo,1.0,Ponte Preta,1.0,2016,,Vit贸ria_Mandante
-68,284,19,Botafogo,2.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-69,293,3,Botafogo,2.0,Atl茅tico-PR,1.0,2016,,Vit贸ria_Mandante
-70,344,13,Botafogo,2.0,Santa Cruz,1.0,2016,,Vit贸ria_Mandante
-71,275,17,Botafogo,3.0,Palmeiras,1.0,2016,,Vit贸ria_Mandante
-72,327,8,Botafogo,3.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-73,315,35,Botafogo,0.0,Chapecoense,2.0,2016,,Vit贸ria_Mandante
-74,282,31,Botafogo,3.0,Atl茅tico-MG,2.0,2016,,Vit贸ria_Mandante
-75,262,15,Botafogo,3.0,Flamengo,3.0,2016,,Vit贸ria_Mandante
-76,266,6,Chapecoense,0.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-77,293,10,Chapecoense,0.0,Atl茅tico-PR,0.0,2016,,Empate
-78,285,20,Chapecoense,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-79,294,24,Chapecoense,1.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-80,316,34,Chapecoense,1.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-81,276,36,Chapecoense,2.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-82,292,30,Chapecoense,3.0,Sport,0.0,2016,,Vit贸ria_Mandante
-83,277,32,Chapecoense,0.0,Santos,1.0,2016,,Vit贸ria_Visitante
-84,275,18,Chapecoense,1.0,Palmeiras,1.0,2016,,Vit贸ria_Mandante
-85,344,4,Chapecoense,1.0,Santa Cruz,1.0,2016,,Vit贸ria_Mandante
-86,263,16,Chapecoense,2.0,Botafogo,1.0,2016,,Vit贸ria_Mandante
-87,327,2,Chapecoense,3.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-88,264,14,Chapecoense,0.0,Corinthians,2.0,2016,,Vit贸ria_Visitante
-89,303,26,Chapecoense,2.0,Ponte Preta,2.0,2016,,Vit贸ria_Mandante
-90,283,12,Chapecoense,3.0,Cruzeiro,2.0,2016,,Vit贸ria_Mandante
-91,262,22,Chapecoense,1.0,Flamengo,3.0,2016,,Vit贸ria_Visitante
-92,284,8,Chapecoense,3.0,Gr锚mio,3.0,2016,,Vit贸ria_Mandante
-93,287,28,Chapecoense,1.0,Vit贸ria,4.0,2016,,Vit贸ria_Visitante
-94,282,29,Corinthians,0.0,Atl茅tico-MG,0.0,2016,,Empate
-95,284,1,Corinthians,0.0,Gr锚mio,0.0,2016,,Empate
-96,293,37,Corinthians,0.0,Atl茅tico-PR,0.0,2016,,Empate
-97,277,5,Corinthians,1.0,Santos,0.0,2016,,Vit贸ria_Mandante
-98,285,36,Corinthians,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-99,327,31,Corinthians,2.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-100,292,23,Corinthians,3.0,Sport,0.0,2016,,Vit贸ria_Mandante
-101,303,3,Corinthians,3.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-102,262,13,Corinthians,4.0,Flamengo,0.0,2016,,Vit贸ria_Mandante
-103,266,27,Corinthians,0.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-104,276,15,Corinthians,1.0,S茫o Paulo,1.0,2016,,Vit贸ria_Mandante
-105,283,19,Corinthians,1.0,Cruzeiro,1.0,2016,,Vit贸ria_Mandante
-106,315,33,Corinthians,1.0,Chapecoense,1.0,2016,,Vit贸ria_Mandante
-107,316,16,Corinthians,1.0,Figueirense,1.0,2016,,Empate
-108,287,21,Corinthians,2.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-109,294,6,Corinthians,2.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-110,344,11,Corinthians,2.0,Santa Cruz,1.0,2016,,Vit贸ria_Mandante
-111,263,9,Corinthians,3.0,Botafogo,1.0,2016,,Vit贸ria_Mandante
-112,275,26,Corinthians,0.0,Palmeiras,2.0,2016,,Vit贸ria_Visitante
-113,263,14,Coritiba,0.0,Botafogo,0.0,2016,,Empate
-114,316,30,Coritiba,0.0,Figueirense,0.0,2016,,Empate
-115,283,1,Coritiba,1.0,Cruzeiro,0.0,2016,,Empate
-116,293,12,Coritiba,1.0,Atl茅tico-PR,0.0,2016,,Empate
-117,344,35,Coritiba,1.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-118,282,34,Coritiba,2.0,Atl茅tico-MG,0.0,2016,,Vit贸ria_Mandante
-119,327,28,Coritiba,3.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-120,284,23,Coritiba,4.0,Gr锚mio,0.0,2016,,Vit贸ria_Mandante
-121,287,37,Coritiba,0.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-122,264,25,Coritiba,1.0,Corinthians,1.0,2016,,Empate
-123,266,32,Coritiba,1.0,Fluminense,1.0,2016,,Empate
-124,276,3,Coritiba,1.0,S茫o Paulo,1.0,2016,,Vit贸ria_Mandante
-125,285,10,Coritiba,1.0,Internacional,1.0,2016,,Vit贸ria_Mandante
-126,277,21,Coritiba,2.0,Santos,1.0,2016,,Vit贸ria_Mandante
-127,303,19,Coritiba,3.0,Ponte Preta,1.0,2016,,Vit贸ria_Mandante
-128,262,17,Coritiba,0.0,Flamengo,2.0,2016,,Vit贸ria_Mandante
-129,275,8,Coritiba,2.0,Palmeiras,2.0,2016,,Vit贸ria_Visitante
-130,292,7,Coritiba,3.0,Sport,2.0,2016,,Vit贸ria_Mandante
-131,315,5,Coritiba,3.0,Chapecoense,4.0,2016,,Vit贸ria_Mandante
-132,315,31,Cruzeiro,0.0,Chapecoense,0.0,2016,,Empate
-133,284,28,Cruzeiro,1.0,Gr锚mio,0.0,2016,,Vit贸ria_Mandante
-134,303,29,Cruzeiro,2.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-135,344,22,Cruzeiro,2.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-136,262,8,Cruzeiro,0.0,Flamengo,1.0,2016,,Vit贸ria_Mandante
-137,276,6,Cruzeiro,0.0,S茫o Paulo,1.0,2016,,Vit贸ria_Visitante
-138,282,26,Cruzeiro,1.0,Atl茅tico-MG,1.0,2016,,Vit贸ria_Mandante
-139,327,4,Cruzeiro,1.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-140,275,11,Cruzeiro,2.0,Palmeiras,1.0,2016,,Vit贸ria_Mandante
-141,263,24,Cruzeiro,0.0,Botafogo,2.0,2016,,Vit贸ria_Visitante
-142,292,16,Cruzeiro,1.0,Sport,2.0,2016,,Vit贸ria_Visitante
-143,277,36,Cruzeiro,2.0,Santos,2.0,2016,,Vit贸ria_Mandante
-144,287,13,Cruzeiro,2.0,Vit贸ria,2.0,2016,,Vit贸ria_Mandante
-145,294,20,Cruzeiro,2.0,Coritiba,2.0,2016,,Vit贸ria_Mandante
-146,316,2,Cruzeiro,2.0,Figueirense,2.0,2016,,Empate
-147,264,38,Cruzeiro,3.0,Corinthians,2.0,2016,,Vit贸ria_Mandante
-148,266,34,Cruzeiro,4.0,Fluminense,2.0,2016,,Empate
-149,285,18,Cruzeiro,4.0,Internacional,2.0,2016,,Vit贸ria_Mandante
-150,293,14,Cruzeiro,0.0,Atl茅tico-PR,3.0,2016,,Vit贸ria_Visitante
-151,284,33,Figueirense,0.0,Gr锚mio,0.0,2016,,Vit贸ria_Mandante
-152,294,11,Figueirense,0.0,Coritiba,0.0,2016,,Empate
-153,303,1,Figueirense,0.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-154,262,7,Figueirense,1.0,Flamengo,0.0,2016,,Vit贸ria_Mandante
-155,266,37,Figueirense,1.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-156,276,5,Figueirense,1.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-157,287,17,Figueirense,1.0,Vit贸ria,0.0,2016,,Empate
-158,293,23,Figueirense,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-159,263,29,Figueirense,0.0,Botafogo,1.0,2016,,Vit贸ria_Mandante
-160,264,35,Figueirense,1.0,Corinthians,1.0,2016,,Vit贸ria_Mandante
-161,282,13,Figueirense,1.0,Atl茅tico-MG,1.0,2016,,Vit贸ria_Mandante
-162,292,19,Figueirense,1.0,Sport,1.0,2016,,Vit贸ria_Mandante
-163,315,15,Figueirense,1.0,Chapecoense,1.0,2016,,Empate
-164,344,27,Figueirense,3.0,Santa Cruz,1.0,2016,,Vit贸ria_Mandante
-165,275,31,Figueirense,1.0,Palmeiras,2.0,2016,,Vit贸ria_Visitante
-166,283,21,Figueirense,1.0,Cruzeiro,2.0,2016,,Empate
-167,277,3,Figueirense,2.0,Santos,2.0,2016,,Vit贸ria_Mandante
-168,327,25,Figueirense,2.0,Am茅rica-MG,2.0,2016,,Vit贸ria_Mandante
-169,285,9,Figueirense,3.0,Internacional,2.0,2016,,Vit贸ria_Mandante
-170,263,34,Flamengo,0.0,Botafogo,0.0,2016,,Empate
-171,285,12,Flamengo,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-172,287,5,Flamengo,1.0,Vit贸ria,0.0,2016,,Vit贸ria_Mandante
-173,292,1,Flamengo,1.0,Sport,0.0,2016,,Vit贸ria_Mandante
-174,293,19,Flamengo,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-175,277,37,Flamengo,2.0,Santos,0.0,2016,,Vit贸ria_Mandante
-176,282,14,Flamengo,2.0,Atl茅tico-MG,0.0,2016,,Vit贸ria_Mandante
-177,316,26,Flamengo,2.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-178,344,29,Flamengo,3.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-179,283,27,Flamengo,2.0,Cruzeiro,1.0,2016,,Vit贸ria_Mandante
-180,284,21,Flamengo,2.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-181,303,23,Flamengo,2.0,Ponte Preta,1.0,2016,,Vit贸ria_Mandante
-182,327,16,Flamengo,2.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-183,266,11,Flamengo,1.0,Fluminense,2.0,2016,,Vit贸ria_Mandante
-184,275,6,Flamengo,1.0,Palmeiras,2.0,2016,,Vit贸ria_Visitante
-185,264,32,Flamengo,2.0,Corinthians,2.0,2016,,Empate
-186,276,9,Flamengo,2.0,S茫o Paulo,2.0,2016,,Vit贸ria_Mandante
-187,294,36,Flamengo,2.0,Coritiba,2.0,2016,,Empate
-188,315,3,Flamengo,2.0,Chapecoense,2.0,2016,,Empate
-189,294,13,Fluminense,0.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-190,263,4,Fluminense,1.0,Botafogo,0.0,2016,,Vit贸ria_Mandante
-191,264,8,Fluminense,1.0,Corinthians,0.0,2016,,Vit贸ria_Mandante
-192,327,20,Fluminense,1.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-193,283,15,Fluminense,2.0,Cruzeiro,0.0,2016,,Vit贸ria_Mandante
-194,303,17,Fluminense,3.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-195,284,7,Fluminense,1.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-196,285,38,Fluminense,1.0,Internacional,1.0,2016,,Vit贸ria_Mandante
-197,293,35,Fluminense,1.0,Atl茅tico-PR,1.0,2016,,Empate
-198,292,28,Fluminense,3.0,Sport,1.0,2016,,Vit贸ria_Mandante
-199,275,22,Fluminense,0.0,Palmeiras,2.0,2016,,Empate
-200,262,30,Fluminense,1.0,Flamengo,2.0,2016,,Vit贸ria_Visitante
-201,276,31,Fluminense,1.0,S茫o Paulo,2.0,2016,,Vit贸ria_Visitante
-202,315,25,Fluminense,1.0,Chapecoense,2.0,2016,,Vit贸ria_Mandante
-203,287,33,Fluminense,2.0,Vit贸ria,2.0,2016,,Vit贸ria_Mandante
-204,344,2,Fluminense,2.0,Santa Cruz,2.0,2016,,Vit贸ria_Mandante
-205,316,18,Fluminense,3.0,Figueirense,2.0,2016,,Vit贸ria_Mandante
-206,282,24,Fluminense,4.0,Atl茅tico-MG,2.0,2016,,Vit贸ria_Mandante
-207,277,10,Fluminense,2.0,Santos,4.0,2016,,Vit贸ria_Mandante
-208,275,24,Gr锚mio,0.0,Palmeiras,0.0,2016,,Vit贸ria_Mandante
-209,285,32,Gr锚mio,0.0,Internacional,0.0,2016,,Empate
-210,344,18,Gr锚mio,0.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-211,262,2,Gr锚mio,1.0,Flamengo,0.0,2016,,Vit贸ria_Mandante
-212,276,16,Gr锚mio,1.0,S茫o Paulo,0.0,2016,,Empate
-213,293,30,Gr锚mio,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-214,303,6,Gr锚mio,1.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-215,315,27,Gr锚mio,1.0,Chapecoense,0.0,2016,,Vit贸ria_Mandante
-216,283,9,Gr锚mio,2.0,Cruzeiro,0.0,2016,,Vit贸ria_Mandante
-217,294,4,Gr锚mio,2.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-218,264,20,Gr锚mio,3.0,Corinthians,0.0,2016,,Vit贸ria_Mandante
-219,327,36,Gr锚mio,3.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-220,263,38,Gr锚mio,0.0,Botafogo,1.0,2016,,Vit贸ria_Mandante
-221,266,26,Gr锚mio,0.0,Fluminense,1.0,2016,,Vit贸ria_Visitante
-222,282,22,Gr锚mio,1.0,Atl茅tico-MG,1.0,2016,,Vit贸ria_Mandante
-223,316,14,Gr锚mio,2.0,Figueirense,1.0,2016,,Vit贸ria_Mandante
-224,287,10,Gr锚mio,1.0,Vit贸ria,2.0,2016,,Vit贸ria_Mandante
-225,277,12,Gr锚mio,3.0,Santos,2.0,2016,,Vit贸ria_Mandante
-226,292,34,Gr锚mio,0.0,Sport,3.0,2016,,Vit贸ria_Mandante
-227,315,1,Internacional,0.0,Chapecoense,0.0,2016,,Empate
-228,283,37,Internacional,1.0,Cruzeiro,0.0,2016,,Vit贸ria_Mandante
-229,292,3,Internacional,1.0,Sport,0.0,2016,,Vit贸ria_Mandante
-230,293,5,Internacional,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-231,294,29,Internacional,1.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-232,316,28,Internacional,1.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-233,282,8,Internacional,2.0,Atl茅tico-MG,0.0,2016,,Vit贸ria_Mandante
-234,264,17,Internacional,0.0,Corinthians,1.0,2016,,Vit贸ria_Mandante
-235,275,15,Internacional,0.0,Palmeiras,1.0,2016,,Vit贸ria_Mandante
-236,284,13,Internacional,0.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-237,287,25,Internacional,0.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-238,276,21,Internacional,1.0,S茫o Paulo,1.0,2016,,Vit贸ria_Visitante
-239,303,35,Internacional,1.0,Ponte Preta,1.0,2016,,Vit贸ria_Mandante
-240,344,33,Internacional,1.0,Santa Cruz,1.0,2016,,Vit贸ria_Mandante
-241,262,31,Internacional,2.0,Flamengo,1.0,2016,,Empate
-242,277,23,Internacional,2.0,Santos,1.0,2016,,Vit贸ria_Mandante
-243,327,7,Internacional,3.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-244,266,19,Internacional,2.0,Fluminense,2.0,2016,,Vit贸ria_Mandante
-245,263,11,Internacional,2.0,Botafogo,3.0,2016,,Vit贸ria_Mandante
-246,283,30,Palmeiras,0.0,Cruzeiro,0.0,2016,,Empate
-247,263,36,Palmeiras,1.0,Botafogo,0.0,2016,,Empate
-248,264,7,Palmeiras,1.0,Corinthians,0.0,2016,,Vit贸ria_Mandante
-249,285,34,Palmeiras,1.0,Internacional,0.0,2016,,Empate
-250,315,37,Palmeiras,1.0,Chapecoense,0.0,2016,,Vit贸ria_Mandante
-251,266,3,Palmeiras,2.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-252,327,10,Palmeiras,2.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-253,293,1,Palmeiras,4.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-254,316,12,Palmeiras,4.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-255,282,16,Palmeiras,0.0,Atl茅tico-MG,1.0,2016,,Vit贸ria_Mandante
-256,262,25,Palmeiras,1.0,Flamengo,1.0,2016,,Vit贸ria_Visitante
-257,277,14,Palmeiras,1.0,Santos,1.0,2016,,Vit贸ria_Mandante
-258,276,23,Palmeiras,2.0,S茫o Paulo,1.0,2016,,Vit贸ria_Mandante
-259,287,19,Palmeiras,2.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-260,292,32,Palmeiras,2.0,Sport,1.0,2016,,Vit贸ria_Mandante
-261,294,27,Palmeiras,2.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-262,344,9,Palmeiras,3.0,Santa Cruz,1.0,2016,,Vit贸ria_Mandante
-263,303,21,Palmeiras,2.0,Ponte Preta,2.0,2016,,Vit贸ria_Mandante
-264,284,5,Palmeiras,4.0,Gr锚mio,3.0,2016,,Vit贸ria_Mandante
-265,266,36,Ponte Preta,1.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-266,276,13,Ponte Preta,1.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-267,263,18,Ponte Preta,2.0,Botafogo,0.0,2016,,Vit贸ria_Mandante
-268,264,22,Ponte Preta,2.0,Corinthians,0.0,2016,,Vit贸ria_Mandante
-269,287,30,Ponte Preta,2.0,Vit贸ria,0.0,2016,,Vit贸ria_Mandante
-270,294,38,Ponte Preta,2.0,Coritiba,0.0,2016,,Empate
-271,316,20,Ponte Preta,2.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-272,284,25,Ponte Preta,3.0,Gr锚mio,0.0,2016,,Vit贸ria_Mandante
-273,344,31,Ponte Preta,3.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-274,327,24,Ponte Preta,1.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-275,275,2,Ponte Preta,2.0,Palmeiras,1.0,2016,,Vit贸ria_Mandante
-276,292,14,Ponte Preta,2.0,Sport,1.0,2016,,Vit贸ria_Mandante
-277,315,7,Ponte Preta,2.0,Chapecoense,1.0,2016,,Vit贸ria_Mandante
-278,262,4,Ponte Preta,1.0,Flamengo,2.0,2016,,Vit贸ria_Mandante
-279,277,34,Ponte Preta,1.0,Santos,2.0,2016,,Empate
-280,282,28,Ponte Preta,1.0,Atl茅tico-MG,2.0,2016,,Empate
-281,285,16,Ponte Preta,2.0,Internacional,2.0,2016,,Vit贸ria_Mandante
-282,293,8,Ponte Preta,3.0,Atl茅tico-PR,2.0,2016,,Vit贸ria_Mandante
-283,283,10,Ponte Preta,0.0,Cruzeiro,4.0,2016,,Vit贸ria_Visitante
-284,285,14,Santa Cruz,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-285,293,25,Santa Cruz,1.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-286,316,8,Santa Cruz,1.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-287,327,34,Santa Cruz,1.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-288,262,10,Santa Cruz,0.0,Flamengo,1.0,2016,,Vit贸ria_Visitante
-289,263,32,Santa Cruz,0.0,Botafogo,1.0,2016,,Empate
-290,266,21,Santa Cruz,0.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-291,292,5,Santa Cruz,0.0,Sport,1.0,2016,,Vit贸ria_Mandante
-292,294,16,Santa Cruz,0.0,Coritiba,1.0,2016,,Vit贸ria_Visitante
-293,283,3,Santa Cruz,4.0,Cruzeiro,1.0,2016,,Vit贸ria_Mandante
-294,287,1,Santa Cruz,4.0,Vit贸ria,1.0,2016,,Vit贸ria_Mandante
-295,284,37,Santa Cruz,5.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-296,277,7,Santa Cruz,0.0,Santos,2.0,2016,,Vit贸ria_Visitante
-297,276,19,Santa Cruz,1.0,S茫o Paulo,2.0,2016,,Empate
-298,315,23,Santa Cruz,2.0,Chapecoense,2.0,2016,,Vit贸ria_Visitante
-299,303,12,Santa Cruz,0.0,Ponte Preta,3.0,2016,,Vit贸ria_Mandante
-300,275,28,Santa Cruz,2.0,Palmeiras,3.0,2016,,Vit贸ria_Visitante
-301,282,36,Santa Cruz,3.0,Atl茅tico-MG,3.0,2016,,Vit贸ria_Mandante
-302,264,30,Santa Cruz,2.0,Corinthians,4.0,2016,,Vit贸ria_Mandante
-303,262,18,Santos,0.0,Flamengo,0.0,2016,,Vit贸ria_Mandante
-304,275,33,Santos,1.0,Palmeiras,0.0,2016,,Vit贸ria_Mandante
-305,327,38,Santos,1.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-306,283,17,Santos,2.0,Cruzeiro,0.0,2016,,Vit贸ria_Mandante
-307,292,8,Santos,2.0,Sport,0.0,2016,,Vit贸ria_Mandante
-308,293,28,Santos,2.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-309,263,6,Santos,3.0,Botafogo,0.0,2016,,Vit贸ria_Mandante
-310,276,11,Santos,3.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-311,282,20,Santos,3.0,Atl茅tico-MG,0.0,2016,,Vit贸ria_Mandante
-312,315,13,Santos,3.0,Chapecoense,0.0,2016,,Vit贸ria_Mandante
-313,285,4,Santos,0.0,Internacional,1.0,2016,,Vit贸ria_Visitante
-314,316,22,Santos,0.0,Figueirense,1.0,2016,,Vit贸ria_Visitante
-315,284,31,Santos,1.0,Gr锚mio,1.0,2016,,Empate
-316,264,24,Santos,2.0,Corinthians,1.0,2016,,Vit贸ria_Mandante
-317,266,29,Santos,2.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-318,294,2,Santos,2.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-319,303,15,Santos,3.0,Ponte Preta,1.0,2016,,Vit贸ria_Mandante
-320,287,35,Santos,3.0,Vit贸ria,2.0,2016,,Vit贸ria_Mandante
-321,344,26,Santos,3.0,Santa Cruz,2.0,2016,,Vit贸ria_Mandante
-322,262,28,S茫o Paulo,0.0,Flamengo,0.0,2016,,Vit贸ria_Mandante
-323,292,10,S茫o Paulo,0.0,Sport,0.0,2016,,Empate
-324,294,22,S茫o Paulo,0.0,Coritiba,0.0,2016,,Vit贸ria_Mandante
-325,275,4,S茫o Paulo,1.0,Palmeiras,0.0,2016,,Vit贸ria_Mandante
-326,283,25,S茫o Paulo,1.0,Cruzeiro,0.0,2016,,Vit贸ria_Mandante
-327,287,8,S茫o Paulo,2.0,Vit贸ria,0.0,2016,,Vit贸ria_Mandante
-328,303,32,S茫o Paulo,2.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-329,327,14,S茫o Paulo,3.0,Am茅rica-MG,0.0,2016,,Vit贸ria_Mandante
-330,264,34,S茫o Paulo,4.0,Corinthians,0.0,2016,,Empate
-331,344,38,S茫o Paulo,5.0,Santa Cruz,0.0,2016,,Vit贸ria_Mandante
-332,263,20,S茫o Paulo,0.0,Botafogo,1.0,2016,,Vit贸ria_Mandante
-333,277,30,S茫o Paulo,0.0,Santos,1.0,2016,,Vit贸ria_Visitante
-334,284,35,S茫o Paulo,1.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-335,266,12,S茫o Paulo,2.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-336,316,24,S茫o Paulo,3.0,Figueirense,1.0,2016,,Vit贸ria_Mandante
-337,282,18,S茫o Paulo,1.0,Atl茅tico-MG,2.0,2016,,Vit贸ria_Mandante
-338,285,2,S茫o Paulo,1.0,Internacional,2.0,2016,,Vit贸ria_Visitante
-339,293,7,S茫o Paulo,1.0,Atl茅tico-PR,2.0,2016,,Vit贸ria_Mandante
-340,315,17,S茫o Paulo,2.0,Chapecoense,2.0,2016,,Empate
-341,262,20,Sport,1.0,Flamengo,0.0,2016,,Vit贸ria_Mandante
-342,277,27,Sport,1.0,Santos,0.0,2016,,Vit贸ria_Mandante
-343,287,31,Sport,1.0,Vit贸ria,0.0,2016,,Vit贸ria_Mandante
-344,303,33,Sport,1.0,Ponte Preta,0.0,2016,,Vit贸ria_Mandante
-345,293,17,Sport,2.0,Atl茅tico-PR,0.0,2016,,Vit贸ria_Mandante
-346,316,38,Sport,2.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-347,283,35,Sport,0.0,Cruzeiro,1.0,2016,,Vit贸ria_Mandante
-348,294,26,Sport,0.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-349,263,2,Sport,1.0,Botafogo,1.0,2016,,Vit贸ria_Mandante
-350,276,29,Sport,1.0,S茫o Paulo,1.0,2016,,Vit贸ria_Visitante
-351,285,22,Sport,1.0,Internacional,1.0,2016,,Vit贸ria_Mandante
-352,327,18,Sport,1.0,Am茅rica-MG,1.0,2016,,Vit贸ria_Mandante
-353,266,9,Sport,2.0,Fluminense,1.0,2016,,Vit贸ria_Mandante
-354,315,11,Sport,5.0,Chapecoense,1.0,2016,,Vit贸ria_Mandante
-355,264,4,Sport,0.0,Corinthians,2.0,2016,,Empate
-356,284,15,Sport,4.0,Gr锚mio,2.0,2016,,Vit贸ria_Mandante
-357,275,13,Sport,1.0,Palmeiras,3.0,2016,,Empate
-358,344,24,Sport,5.0,Santa Cruz,3.0,2016,,Vit贸ria_Mandante
-359,282,6,Sport,4.0,Atl茅tico-MG,4.0,2016,,Vit贸ria_Mandante
-360,266,14,Vit贸ria,0.0,Fluminense,0.0,2016,,Vit贸ria_Mandante
-361,285,6,Vit贸ria,1.0,Internacional,0.0,2016,,Vit贸ria_Mandante
-362,276,27,Vit贸ria,2.0,S茫o Paulo,0.0,2016,,Vit贸ria_Mandante
-363,316,36,Vit贸ria,4.0,Figueirense,0.0,2016,,Vit贸ria_Mandante
-364,263,26,Vit贸ria,0.0,Botafogo,1.0,2016,,Empate
-365,283,32,Vit贸ria,0.0,Cruzeiro,1.0,2016,,Empate
-366,284,29,Vit贸ria,0.0,Gr锚mio,1.0,2016,,Vit贸ria_Mandante
-367,282,4,Vit贸ria,1.0,Atl茅tico-MG,1.0,2016,,Vit贸ria_Visitante
-368,303,11,Vit贸ria,1.0,Ponte Preta,1.0,2016,,Vit贸ria_Mandante
-369,327,22,Vit贸ria,2.0,Am茅rica-MG,1.0,2016,,Empate
-370,294,18,Vit贸ria,3.0,Coritiba,1.0,2016,,Vit贸ria_Mandante
-371,262,24,Vit贸ria,1.0,Flamengo,2.0,2016,,Vit贸ria_Visitante
-372,275,38,Vit贸ria,1.0,Palmeiras,2.0,2016,,Empate
-373,315,9,Vit贸ria,1.0,Chapecoense,2.0,2016,,Vit贸ria_Mandante
-374,344,20,Vit贸ria,2.0,Santa Cruz,2.0,2016,,Vit贸ria_Mandante
-375,264,2,Vit贸ria,3.0,Corinthians,2.0,2016,,Vit贸ria_Mandante
-376,292,12,Vit贸ria,3.0,Sport,2.0,2016,,Vit贸ria_Mandante
-377,293,34,Vit贸ria,3.0,Atl茅tico-PR,2.0,2016,,Vit贸ria_Mandante
-378,277,16,Vit贸ria,2.0,Santos,3.0,2016,,Vit贸ria_Mandante
+,Unnamed: 0,RODADA,GOLS_MANDANTE,GOLS_VISITANTE,ANO,RESULTADO_PREDITO,RESULTADO
+0,284,17,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+1,263,27,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+2,276,33,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+3,277,19,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+4,285,26,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+5,293,32,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+6,316,6,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+7,262,35,0.0,1.0,2016,Empate,Vit髍ia_Visitante
+8,266,1,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+9,282,11,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+10,287,3,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+11,294,9,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+12,264,12,0.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+13,275,29,0.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+14,283,23,0.0,2.0,2016,Empate,Vit髍ia_Visitante
+15,303,5,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+16,315,21,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+17,292,37,2.0,2.0,2016,Empate,Empate
+18,344,15,0.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+19,277,1,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+20,292,25,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+21,293,21,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+22,303,9,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+23,316,32,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+24,327,30,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+25,344,17,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+26,266,5,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+27,275,35,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+28,264,10,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+29,287,23,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+30,294,15,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+31,285,27,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+32,315,19,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+33,276,37,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+34,262,33,2.0,2.0,2016,Empate,Empate
+35,284,3,0.0,3.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+36,283,7,2.0,3.0,2016,Empate,Vit髍ia_Visitante
+37,263,12,5.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+38,262,38,0.0,0.0,2016,Empate,Empate
+39,263,22,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+40,266,16,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+41,276,26,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+42,277,9,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+43,283,33,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+44,327,13,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+45,344,6,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+46,264,18,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+47,284,11,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+48,292,36,2.0,0.0,2016,Empate,Vit髍ia_Mandante
+49,294,31,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+50,303,27,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+51,275,20,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+52,282,2,1.0,1.0,2016,Empate,Empate
+53,287,15,1.0,1.0,2016,Empate,Empate
+54,285,24,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+55,316,4,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+56,315,29,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+57,294,33,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+58,316,10,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+59,266,23,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+60,285,30,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+61,264,28,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+62,292,21,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+63,276,1,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+64,277,25,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+65,283,5,0.0,1.0,2016,Empate,Vit髍ia_Visitante
+66,287,7,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+67,303,37,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+68,284,19,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+69,293,3,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+70,344,13,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+71,275,17,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+72,327,8,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+73,315,35,0.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+74,282,31,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+75,262,15,3.0,3.0,2016,Vit髍ia_Mandante,Empate
+76,266,6,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+77,293,10,0.0,0.0,2016,Empate,Empate
+78,285,20,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+79,294,24,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+80,316,34,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+81,276,36,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+82,292,30,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+83,277,32,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+84,275,18,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+85,344,4,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+86,263,16,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+87,327,2,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+88,264,14,0.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+89,303,26,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+90,283,12,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+91,262,22,1.0,3.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+92,284,8,3.0,3.0,2016,Vit髍ia_Mandante,Empate
+93,287,28,1.0,4.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+94,282,29,0.0,0.0,2016,Empate,Empate
+95,284,1,0.0,0.0,2016,Empate,Empate
+96,293,37,0.0,0.0,2016,Empate,Empate
+97,277,5,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+98,285,36,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+99,327,31,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+100,292,23,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+101,303,3,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+102,262,13,4.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+103,266,27,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+104,276,15,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+105,283,19,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+106,315,33,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+107,316,16,1.0,1.0,2016,Empate,Empate
+108,287,21,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+109,294,6,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+110,344,11,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+111,263,9,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+112,275,26,0.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+113,263,14,0.0,0.0,2016,Empate,Empate
+114,316,30,0.0,0.0,2016,Empate,Empate
+115,283,1,1.0,0.0,2016,Empate,Vit髍ia_Mandante
+116,293,12,1.0,0.0,2016,Empate,Vit髍ia_Mandante
+117,344,35,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+118,282,34,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+119,327,28,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+120,284,23,4.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+121,287,37,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+122,264,25,1.0,1.0,2016,Empate,Empate
+123,266,32,1.0,1.0,2016,Empate,Empate
+124,276,3,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+125,285,10,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+126,277,21,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+127,303,19,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+128,262,17,0.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+129,275,8,2.0,2.0,2016,Vit髍ia_Visitante,Empate
+130,292,7,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+131,315,5,3.0,4.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+132,315,31,0.0,0.0,2016,Empate,Empate
+133,284,28,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+134,303,29,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+135,344,22,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+136,262,8,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+137,276,6,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+138,282,26,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+139,327,4,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+140,275,11,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+141,263,24,0.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+142,292,16,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+143,277,36,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+144,287,13,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+145,294,20,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+146,316,2,2.0,2.0,2016,Empate,Empate
+147,264,38,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+148,266,34,4.0,2.0,2016,Empate,Vit髍ia_Mandante
+149,285,18,4.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+150,293,14,0.0,3.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+151,284,33,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+152,294,11,0.0,0.0,2016,Empate,Empate
+153,303,1,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+154,262,7,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+155,266,37,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+156,276,5,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+157,287,17,1.0,0.0,2016,Empate,Vit髍ia_Mandante
+158,293,23,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+159,263,29,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+160,264,35,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+161,282,13,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+162,292,19,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+163,315,15,1.0,1.0,2016,Empate,Empate
+164,344,27,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+165,275,31,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+166,283,21,1.0,2.0,2016,Empate,Vit髍ia_Visitante
+167,277,3,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+168,327,25,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+169,285,9,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+170,263,34,0.0,0.0,2016,Empate,Empate
+171,285,12,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+172,287,5,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+173,292,1,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+174,293,19,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+175,277,37,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+176,282,14,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+177,316,26,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+178,344,29,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+179,283,27,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+180,284,21,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+181,303,23,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+182,327,16,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+183,266,11,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+184,275,6,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+185,264,32,2.0,2.0,2016,Empate,Empate
+186,276,9,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+187,294,36,2.0,2.0,2016,Empate,Empate
+188,315,3,2.0,2.0,2016,Empate,Empate
+189,294,13,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+190,263,4,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+191,264,8,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+192,327,20,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+193,283,15,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+194,303,17,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+195,284,7,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+196,285,38,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+197,293,35,1.0,1.0,2016,Empate,Empate
+198,292,28,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+199,275,22,0.0,2.0,2016,Empate,Vit髍ia_Visitante
+200,262,30,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+201,276,31,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+202,315,25,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+203,287,33,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+204,344,2,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+205,316,18,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+206,282,24,4.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+207,277,10,2.0,4.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+208,275,24,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+209,285,32,0.0,0.0,2016,Empate,Empate
+210,344,18,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+211,262,2,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+212,276,16,1.0,0.0,2016,Empate,Vit髍ia_Mandante
+213,293,30,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+214,303,6,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+215,315,27,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+216,283,9,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+217,294,4,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+218,264,20,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+219,327,36,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+220,263,38,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+221,266,26,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+222,282,22,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+223,316,14,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+224,287,10,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+225,277,12,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+226,292,34,0.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+227,315,1,0.0,0.0,2016,Empate,Empate
+228,283,37,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+229,292,3,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+230,293,5,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+231,294,29,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+232,316,28,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+233,282,8,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+234,264,17,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+235,275,15,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+236,284,13,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+237,287,25,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+238,276,21,1.0,1.0,2016,Vit髍ia_Visitante,Empate
+239,303,35,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+240,344,33,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+241,262,31,2.0,1.0,2016,Empate,Vit髍ia_Mandante
+242,277,23,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+243,327,7,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+244,266,19,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+245,263,11,2.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+246,283,30,0.0,0.0,2016,Empate,Empate
+247,263,36,1.0,0.0,2016,Empate,Vit髍ia_Mandante
+248,264,7,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+249,285,34,1.0,0.0,2016,Empate,Vit髍ia_Mandante
+250,315,37,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+251,266,3,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+252,327,10,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+253,293,1,4.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+254,316,12,4.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+255,282,16,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+256,262,25,1.0,1.0,2016,Vit髍ia_Visitante,Empate
+257,277,14,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+258,276,23,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+259,287,19,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+260,292,32,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+261,294,27,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+262,344,9,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+263,303,21,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+264,284,5,4.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+265,266,36,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+266,276,13,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+267,263,18,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+268,264,22,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+269,287,30,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+270,294,38,2.0,0.0,2016,Empate,Vit髍ia_Mandante
+271,316,20,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+272,284,25,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+273,344,31,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+274,327,24,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+275,275,2,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+276,292,14,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+277,315,7,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+278,262,4,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+279,277,34,1.0,2.0,2016,Empate,Vit髍ia_Visitante
+280,282,28,1.0,2.0,2016,Empate,Vit髍ia_Visitante
+281,285,16,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+282,293,8,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+283,283,10,0.0,4.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+284,285,14,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+285,293,25,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+286,316,8,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+287,327,34,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+288,262,10,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+289,263,32,0.0,1.0,2016,Empate,Vit髍ia_Visitante
+290,266,21,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+291,292,5,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+292,294,16,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+293,283,3,4.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+294,287,1,4.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+295,284,37,5.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+296,277,7,0.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+297,276,19,1.0,2.0,2016,Empate,Vit髍ia_Visitante
+298,315,23,2.0,2.0,2016,Vit髍ia_Visitante,Empate
+299,303,12,0.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+300,275,28,2.0,3.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+301,282,36,3.0,3.0,2016,Vit髍ia_Mandante,Empate
+302,264,30,2.0,4.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+303,262,18,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+304,275,33,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+305,327,38,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+306,283,17,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+307,292,8,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+308,293,28,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+309,263,6,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+310,276,11,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+311,282,20,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+312,315,13,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+313,285,4,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+314,316,22,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+315,284,31,1.0,1.0,2016,Empate,Empate
+316,264,24,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+317,266,29,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+318,294,2,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+319,303,15,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+320,287,35,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+321,344,26,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+322,262,28,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+323,292,10,0.0,0.0,2016,Empate,Empate
+324,294,22,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+325,275,4,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+326,283,25,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+327,287,8,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+328,303,32,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+329,327,14,3.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+330,264,34,4.0,0.0,2016,Empate,Vit髍ia_Mandante
+331,344,38,5.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+332,263,20,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+333,277,30,0.0,1.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+334,284,35,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+335,266,12,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+336,316,24,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+337,282,18,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+338,285,2,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+339,293,7,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+340,315,17,2.0,2.0,2016,Empate,Empate
+341,262,20,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+342,277,27,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+343,287,31,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+344,303,33,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+345,293,17,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+346,316,38,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+347,283,35,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+348,294,26,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+349,263,2,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+350,276,29,1.0,1.0,2016,Vit髍ia_Visitante,Empate
+351,285,22,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+352,327,18,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+353,266,9,2.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+354,315,11,5.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+355,264,4,0.0,2.0,2016,Empate,Vit髍ia_Visitante
+356,284,15,4.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+357,275,13,1.0,3.0,2016,Empate,Vit髍ia_Visitante
+358,344,24,5.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+359,282,6,4.0,4.0,2016,Vit髍ia_Mandante,Empate
+360,266,14,0.0,0.0,2016,Vit髍ia_Mandante,Empate
+361,285,6,1.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+362,276,27,2.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+363,316,36,4.0,0.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+364,263,26,0.0,1.0,2016,Empate,Vit髍ia_Visitante
+365,283,32,0.0,1.0,2016,Empate,Vit髍ia_Visitante
+366,284,29,0.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+367,282,4,1.0,1.0,2016,Vit髍ia_Visitante,Empate
+368,303,11,1.0,1.0,2016,Vit髍ia_Mandante,Empate
+369,327,22,2.0,1.0,2016,Empate,Vit髍ia_Mandante
+370,294,18,3.0,1.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+371,262,24,1.0,2.0,2016,Vit髍ia_Visitante,Vit髍ia_Visitante
+372,275,38,1.0,2.0,2016,Empate,Vit髍ia_Visitante
+373,315,9,1.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
+374,344,20,2.0,2.0,2016,Vit髍ia_Mandante,Empate
+375,264,2,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+376,292,12,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+377,293,34,3.0,2.0,2016,Vit髍ia_Mandante,Vit髍ia_Mandante
+378,277,16,2.0,3.0,2016,Vit髍ia_Mandante,Vit髍ia_Visitante
