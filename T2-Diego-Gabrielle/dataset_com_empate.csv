@@ -1,0 +1,380 @@
+,RODADA,MANDANTE,GOLS_MANDANTE,VISITANTE,GOLS_VISITANTE,ANO,RESULTADO
+284,17,América-MG,0.0,Grêmio,0.0,2016,Empate
+263,27,América-MG,1.0,Botafogo,0.0,2016,Vitória_Mandante
+276,33,América-MG,1.0,São Paulo,0.0,2016,Vitória_Mandante
+277,19,América-MG,1.0,Santos,0.0,2016,Vitória_Mandante
+285,26,América-MG,1.0,Internacional,0.0,2016,Vitória_Mandante
+293,32,América-MG,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+316,6,América-MG,1.0,Figueirense,0.0,2016,Vitória_Mandante
+262,35,América-MG,0.0,Flamengo,1.0,2016,Vitória_Visitante
+266,1,América-MG,0.0,Fluminense,1.0,2016,Vitória_Visitante
+282,11,América-MG,0.0,Atlético-MG,1.0,2016,Vitória_Visitante
+287,3,América-MG,1.0,Vitória,1.0,2016,Empate
+294,9,América-MG,2.0,Coritiba,1.0,2016,Vitória_Mandante
+264,12,América-MG,0.0,Corinthians,2.0,2016,Vitória_Visitante
+275,29,América-MG,0.0,Palmeiras,2.0,2016,Vitória_Visitante
+283,23,América-MG,0.0,Cruzeiro,2.0,2016,Vitória_Visitante
+303,5,América-MG,1.0,Ponte Preta,2.0,2016,Vitória_Visitante
+315,21,América-MG,1.0,Chapecoense,2.0,2016,Vitória_Visitante
+292,37,América-MG,2.0,Sport,2.0,2016,Empate
+344,15,América-MG,0.0,Santa Cruz,3.0,2016,Vitória_Visitante
+277,1,Atlético-MG,1.0,Santos,0.0,2016,Vitória_Mandante
+292,25,Atlético-MG,1.0,Sport,0.0,2016,Vitória_Mandante
+293,21,Atlético-MG,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+303,9,Atlético-MG,3.0,Ponte Preta,0.0,2016,Vitória_Mandante
+316,32,Atlético-MG,3.0,Figueirense,0.0,2016,Vitória_Mandante
+327,30,Atlético-MG,3.0,América-MG,0.0,2016,Vitória_Mandante
+344,17,Atlético-MG,3.0,Santa Cruz,0.0,2016,Vitória_Mandante
+266,5,Atlético-MG,1.0,Fluminense,1.0,2016,Empate
+275,35,Atlético-MG,1.0,Palmeiras,1.0,2016,Empate
+264,10,Atlético-MG,2.0,Corinthians,1.0,2016,Vitória_Mandante
+287,23,Atlético-MG,2.0,Vitória,1.0,2016,Vitória_Mandante
+294,15,Atlético-MG,2.0,Coritiba,1.0,2016,Vitória_Mandante
+285,27,Atlético-MG,3.0,Internacional,1.0,2016,Vitória_Mandante
+315,19,Atlético-MG,3.0,Chapecoense,1.0,2016,Vitória_Mandante
+276,37,Atlético-MG,1.0,São Paulo,2.0,2016,Vitória_Visitante
+262,33,Atlético-MG,2.0,Flamengo,2.0,2016,Empate
+284,3,Atlético-MG,0.0,Grêmio,3.0,2016,Vitória_Visitante
+283,7,Atlético-MG,2.0,Cruzeiro,3.0,2016,Vitória_Visitante
+263,12,Atlético-MG,5.0,Botafogo,3.0,2016,Vitória_Mandante
+262,38,Atlético-PR,0.0,Flamengo,0.0,2016,Empate
+263,22,Atlético-PR,1.0,Botafogo,0.0,2016,Vitória_Mandante
+266,16,Atlético-PR,1.0,Fluminense,0.0,2016,Vitória_Mandante
+276,26,Atlético-PR,1.0,São Paulo,0.0,2016,Vitória_Mandante
+277,9,Atlético-PR,1.0,Santos,0.0,2016,Vitória_Mandante
+283,33,Atlético-PR,1.0,Cruzeiro,0.0,2016,Vitória_Mandante
+327,13,Atlético-PR,1.0,América-MG,0.0,2016,Vitória_Mandante
+344,6,Atlético-PR,1.0,Santa Cruz,0.0,2016,Vitória_Mandante
+264,18,Atlético-PR,2.0,Corinthians,0.0,2016,Vitória_Mandante
+284,11,Atlético-PR,2.0,Grêmio,0.0,2016,Vitória_Mandante
+292,36,Atlético-PR,2.0,Sport,0.0,2016,Vitória_Mandante
+294,31,Atlético-PR,2.0,Coritiba,0.0,2016,Vitória_Mandante
+303,27,Atlético-PR,3.0,Ponte Preta,0.0,2016,Vitória_Mandante
+275,20,Atlético-PR,0.0,Palmeiras,1.0,2016,Vitória_Visitante
+282,2,Atlético-PR,1.0,Atlético-MG,1.0,2016,Empate
+287,15,Atlético-PR,1.0,Vitória,1.0,2016,Empate
+285,24,Atlético-PR,2.0,Internacional,1.0,2016,Vitória_Mandante
+316,4,Atlético-PR,2.0,Figueirense,1.0,2016,Vitória_Mandante
+315,29,Atlético-PR,3.0,Chapecoense,1.0,2016,Vitória_Mandante
+294,33,Botafogo,0.0,Coritiba,0.0,2016,Empate
+316,10,Botafogo,0.0,Figueirense,0.0,2016,Empate
+266,23,Botafogo,1.0,Fluminense,0.0,2016,Vitória_Mandante
+285,30,Botafogo,1.0,Internacional,0.0,2016,Vitória_Mandante
+264,28,Botafogo,2.0,Corinthians,0.0,2016,Vitória_Mandante
+292,21,Botafogo,3.0,Sport,0.0,2016,Vitória_Mandante
+276,1,Botafogo,0.0,São Paulo,1.0,2016,Vitória_Visitante
+277,25,Botafogo,0.0,Santos,1.0,2016,Vitória_Visitante
+283,5,Botafogo,0.0,Cruzeiro,1.0,2016,Vitória_Visitante
+287,7,Botafogo,1.0,Vitória,1.0,2016,Empate
+303,37,Botafogo,1.0,Ponte Preta,1.0,2016,Empate
+284,19,Botafogo,2.0,Grêmio,1.0,2016,Vitória_Mandante
+293,3,Botafogo,2.0,Atlético-PR,1.0,2016,Vitória_Mandante
+344,13,Botafogo,2.0,Santa Cruz,1.0,2016,Vitória_Mandante
+275,17,Botafogo,3.0,Palmeiras,1.0,2016,Vitória_Mandante
+327,8,Botafogo,3.0,América-MG,1.0,2016,Vitória_Mandante
+315,35,Botafogo,0.0,Chapecoense,2.0,2016,Vitória_Visitante
+282,31,Botafogo,3.0,Atlético-MG,2.0,2016,Vitória_Mandante
+262,15,Botafogo,3.0,Flamengo,3.0,2016,Empate
+266,6,Chapecoense,0.0,Fluminense,0.0,2016,Empate
+293,10,Chapecoense,0.0,Atlético-PR,0.0,2016,Empate
+285,20,Chapecoense,1.0,Internacional,0.0,2016,Vitória_Mandante
+294,24,Chapecoense,1.0,Coritiba,0.0,2016,Vitória_Mandante
+316,34,Chapecoense,1.0,Figueirense,0.0,2016,Vitória_Mandante
+276,36,Chapecoense,2.0,São Paulo,0.0,2016,Vitória_Mandante
+292,30,Chapecoense,3.0,Sport,0.0,2016,Vitória_Mandante
+277,32,Chapecoense,0.0,Santos,1.0,2016,Vitória_Visitante
+275,18,Chapecoense,1.0,Palmeiras,1.0,2016,Empate
+344,4,Chapecoense,1.0,Santa Cruz,1.0,2016,Empate
+263,16,Chapecoense,2.0,Botafogo,1.0,2016,Vitória_Mandante
+327,2,Chapecoense,3.0,América-MG,1.0,2016,Vitória_Mandante
+264,14,Chapecoense,0.0,Corinthians,2.0,2016,Vitória_Visitante
+303,26,Chapecoense,2.0,Ponte Preta,2.0,2016,Empate
+283,12,Chapecoense,3.0,Cruzeiro,2.0,2016,Vitória_Mandante
+262,22,Chapecoense,1.0,Flamengo,3.0,2016,Vitória_Visitante
+284,8,Chapecoense,3.0,Grêmio,3.0,2016,Empate
+287,28,Chapecoense,1.0,Vitória,4.0,2016,Vitória_Visitante
+282,29,Corinthians,0.0,Atlético-MG,0.0,2016,Empate
+284,1,Corinthians,0.0,Grêmio,0.0,2016,Empate
+293,37,Corinthians,0.0,Atlético-PR,0.0,2016,Empate
+277,5,Corinthians,1.0,Santos,0.0,2016,Vitória_Mandante
+285,36,Corinthians,1.0,Internacional,0.0,2016,Vitória_Mandante
+327,31,Corinthians,2.0,América-MG,0.0,2016,Vitória_Mandante
+292,23,Corinthians,3.0,Sport,0.0,2016,Vitória_Mandante
+303,3,Corinthians,3.0,Ponte Preta,0.0,2016,Vitória_Mandante
+262,13,Corinthians,4.0,Flamengo,0.0,2016,Vitória_Mandante
+266,27,Corinthians,0.0,Fluminense,1.0,2016,Vitória_Visitante
+276,15,Corinthians,1.0,São Paulo,1.0,2016,Empate
+283,19,Corinthians,1.0,Cruzeiro,1.0,2016,Empate
+315,33,Corinthians,1.0,Chapecoense,1.0,2016,Empate
+316,16,Corinthians,1.0,Figueirense,1.0,2016,Empate
+287,21,Corinthians,2.0,Vitória,1.0,2016,Vitória_Mandante
+294,6,Corinthians,2.0,Coritiba,1.0,2016,Vitória_Mandante
+344,11,Corinthians,2.0,Santa Cruz,1.0,2016,Vitória_Mandante
+263,9,Corinthians,3.0,Botafogo,1.0,2016,Vitória_Mandante
+275,26,Corinthians,0.0,Palmeiras,2.0,2016,Vitória_Visitante
+263,14,Coritiba,0.0,Botafogo,0.0,2016,Empate
+316,30,Coritiba,0.0,Figueirense,0.0,2016,Empate
+283,1,Coritiba,1.0,Cruzeiro,0.0,2016,Vitória_Mandante
+293,12,Coritiba,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+344,35,Coritiba,1.0,Santa Cruz,0.0,2016,Vitória_Mandante
+282,34,Coritiba,2.0,Atlético-MG,0.0,2016,Vitória_Mandante
+327,28,Coritiba,3.0,América-MG,0.0,2016,Vitória_Mandante
+284,23,Coritiba,4.0,Grêmio,0.0,2016,Vitória_Mandante
+287,37,Coritiba,0.0,Vitória,1.0,2016,Vitória_Visitante
+264,25,Coritiba,1.0,Corinthians,1.0,2016,Empate
+266,32,Coritiba,1.0,Fluminense,1.0,2016,Empate
+276,3,Coritiba,1.0,São Paulo,1.0,2016,Empate
+285,10,Coritiba,1.0,Internacional,1.0,2016,Empate
+277,21,Coritiba,2.0,Santos,1.0,2016,Vitória_Mandante
+303,19,Coritiba,3.0,Ponte Preta,1.0,2016,Vitória_Mandante
+262,17,Coritiba,0.0,Flamengo,2.0,2016,Vitória_Visitante
+275,8,Coritiba,2.0,Palmeiras,2.0,2016,Empate
+292,7,Coritiba,3.0,Sport,2.0,2016,Vitória_Mandante
+315,5,Coritiba,3.0,Chapecoense,4.0,2016,Vitória_Visitante
+315,31,Cruzeiro,0.0,Chapecoense,0.0,2016,Empate
+284,28,Cruzeiro,1.0,Grêmio,0.0,2016,Vitória_Mandante
+303,29,Cruzeiro,2.0,Ponte Preta,0.0,2016,Vitória_Mandante
+344,22,Cruzeiro,2.0,Santa Cruz,0.0,2016,Vitória_Mandante
+262,8,Cruzeiro,0.0,Flamengo,1.0,2016,Vitória_Visitante
+276,6,Cruzeiro,0.0,São Paulo,1.0,2016,Vitória_Visitante
+282,26,Cruzeiro,1.0,Atlético-MG,1.0,2016,Empate
+327,4,Cruzeiro,1.0,América-MG,1.0,2016,Empate
+275,11,Cruzeiro,2.0,Palmeiras,1.0,2016,Vitória_Mandante
+263,24,Cruzeiro,0.0,Botafogo,2.0,2016,Vitória_Visitante
+292,16,Cruzeiro,1.0,Sport,2.0,2016,Vitória_Visitante
+277,36,Cruzeiro,2.0,Santos,2.0,2016,Empate
+287,13,Cruzeiro,2.0,Vitória,2.0,2016,Empate
+294,20,Cruzeiro,2.0,Coritiba,2.0,2016,Empate
+316,2,Cruzeiro,2.0,Figueirense,2.0,2016,Empate
+264,38,Cruzeiro,3.0,Corinthians,2.0,2016,Vitória_Mandante
+266,34,Cruzeiro,4.0,Fluminense,2.0,2016,Vitória_Mandante
+285,18,Cruzeiro,4.0,Internacional,2.0,2016,Vitória_Mandante
+293,14,Cruzeiro,0.0,Atlético-PR,3.0,2016,Vitória_Visitante
+284,33,Figueirense,0.0,Grêmio,0.0,2016,Empate
+294,11,Figueirense,0.0,Coritiba,0.0,2016,Empate
+303,1,Figueirense,0.0,Ponte Preta,0.0,2016,Empate
+262,7,Figueirense,1.0,Flamengo,0.0,2016,Vitória_Mandante
+266,37,Figueirense,1.0,Fluminense,0.0,2016,Vitória_Mandante
+276,5,Figueirense,1.0,São Paulo,0.0,2016,Vitória_Mandante
+287,17,Figueirense,1.0,Vitória,0.0,2016,Vitória_Mandante
+293,23,Figueirense,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+263,29,Figueirense,0.0,Botafogo,1.0,2016,Vitória_Visitante
+264,35,Figueirense,1.0,Corinthians,1.0,2016,Empate
+282,13,Figueirense,1.0,Atlético-MG,1.0,2016,Empate
+292,19,Figueirense,1.0,Sport,1.0,2016,Empate
+315,15,Figueirense,1.0,Chapecoense,1.0,2016,Empate
+344,27,Figueirense,3.0,Santa Cruz,1.0,2016,Vitória_Mandante
+275,31,Figueirense,1.0,Palmeiras,2.0,2016,Vitória_Visitante
+283,21,Figueirense,1.0,Cruzeiro,2.0,2016,Vitória_Visitante
+277,3,Figueirense,2.0,Santos,2.0,2016,Empate
+327,25,Figueirense,2.0,América-MG,2.0,2016,Empate
+285,9,Figueirense,3.0,Internacional,2.0,2016,Vitória_Mandante
+263,34,Flamengo,0.0,Botafogo,0.0,2016,Empate
+285,12,Flamengo,1.0,Internacional,0.0,2016,Vitória_Mandante
+287,5,Flamengo,1.0,Vitória,0.0,2016,Vitória_Mandante
+292,1,Flamengo,1.0,Sport,0.0,2016,Vitória_Mandante
+293,19,Flamengo,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+277,37,Flamengo,2.0,Santos,0.0,2016,Vitória_Mandante
+282,14,Flamengo,2.0,Atlético-MG,0.0,2016,Vitória_Mandante
+316,26,Flamengo,2.0,Figueirense,0.0,2016,Vitória_Mandante
+344,29,Flamengo,3.0,Santa Cruz,0.0,2016,Vitória_Mandante
+283,27,Flamengo,2.0,Cruzeiro,1.0,2016,Vitória_Mandante
+284,21,Flamengo,2.0,Grêmio,1.0,2016,Vitória_Mandante
+303,23,Flamengo,2.0,Ponte Preta,1.0,2016,Vitória_Mandante
+327,16,Flamengo,2.0,América-MG,1.0,2016,Vitória_Mandante
+266,11,Flamengo,1.0,Fluminense,2.0,2016,Vitória_Visitante
+275,6,Flamengo,1.0,Palmeiras,2.0,2016,Vitória_Visitante
+264,32,Flamengo,2.0,Corinthians,2.0,2016,Empate
+276,9,Flamengo,2.0,São Paulo,2.0,2016,Empate
+294,36,Flamengo,2.0,Coritiba,2.0,2016,Empate
+315,3,Flamengo,2.0,Chapecoense,2.0,2016,Empate
+294,13,Fluminense,0.0,Coritiba,0.0,2016,Empate
+263,4,Fluminense,1.0,Botafogo,0.0,2016,Vitória_Mandante
+264,8,Fluminense,1.0,Corinthians,0.0,2016,Vitória_Mandante
+327,20,Fluminense,1.0,América-MG,0.0,2016,Vitória_Mandante
+283,15,Fluminense,2.0,Cruzeiro,0.0,2016,Vitória_Mandante
+303,17,Fluminense,3.0,Ponte Preta,0.0,2016,Vitória_Mandante
+284,7,Fluminense,1.0,Grêmio,1.0,2016,Empate
+285,38,Fluminense,1.0,Internacional,1.0,2016,Empate
+293,35,Fluminense,1.0,Atlético-PR,1.0,2016,Empate
+292,28,Fluminense,3.0,Sport,1.0,2016,Vitória_Mandante
+275,22,Fluminense,0.0,Palmeiras,2.0,2016,Vitória_Visitante
+262,30,Fluminense,1.0,Flamengo,2.0,2016,Vitória_Visitante
+276,31,Fluminense,1.0,São Paulo,2.0,2016,Vitória_Visitante
+315,25,Fluminense,1.0,Chapecoense,2.0,2016,Vitória_Visitante
+287,33,Fluminense,2.0,Vitória,2.0,2016,Empate
+344,2,Fluminense,2.0,Santa Cruz,2.0,2016,Empate
+316,18,Fluminense,3.0,Figueirense,2.0,2016,Vitória_Mandante
+282,24,Fluminense,4.0,Atlético-MG,2.0,2016,Vitória_Mandante
+277,10,Fluminense,2.0,Santos,4.0,2016,Vitória_Visitante
+275,24,Grêmio,0.0,Palmeiras,0.0,2016,Empate
+285,32,Grêmio,0.0,Internacional,0.0,2016,Empate
+344,18,Grêmio,0.0,Santa Cruz,0.0,2016,Empate
+262,2,Grêmio,1.0,Flamengo,0.0,2016,Vitória_Mandante
+276,16,Grêmio,1.0,São Paulo,0.0,2016,Vitória_Mandante
+293,30,Grêmio,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+303,6,Grêmio,1.0,Ponte Preta,0.0,2016,Vitória_Mandante
+315,27,Grêmio,1.0,Chapecoense,0.0,2016,Vitória_Mandante
+283,9,Grêmio,2.0,Cruzeiro,0.0,2016,Vitória_Mandante
+294,4,Grêmio,2.0,Coritiba,0.0,2016,Vitória_Mandante
+264,20,Grêmio,3.0,Corinthians,0.0,2016,Vitória_Mandante
+327,36,Grêmio,3.0,América-MG,0.0,2016,Vitória_Mandante
+263,38,Grêmio,0.0,Botafogo,1.0,2016,Vitória_Visitante
+266,26,Grêmio,0.0,Fluminense,1.0,2016,Vitória_Visitante
+282,22,Grêmio,1.0,Atlético-MG,1.0,2016,Empate
+316,14,Grêmio,2.0,Figueirense,1.0,2016,Vitória_Mandante
+287,10,Grêmio,1.0,Vitória,2.0,2016,Vitória_Visitante
+277,12,Grêmio,3.0,Santos,2.0,2016,Vitória_Mandante
+292,34,Grêmio,0.0,Sport,3.0,2016,Vitória_Visitante
+315,1,Internacional,0.0,Chapecoense,0.0,2016,Empate
+283,37,Internacional,1.0,Cruzeiro,0.0,2016,Vitória_Mandante
+292,3,Internacional,1.0,Sport,0.0,2016,Vitória_Mandante
+293,5,Internacional,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+294,29,Internacional,1.0,Coritiba,0.0,2016,Vitória_Mandante
+316,28,Internacional,1.0,Figueirense,0.0,2016,Vitória_Mandante
+282,8,Internacional,2.0,Atlético-MG,0.0,2016,Vitória_Mandante
+264,17,Internacional,0.0,Corinthians,1.0,2016,Vitória_Visitante
+275,15,Internacional,0.0,Palmeiras,1.0,2016,Vitória_Visitante
+284,13,Internacional,0.0,Grêmio,1.0,2016,Vitória_Visitante
+287,25,Internacional,0.0,Vitória,1.0,2016,Vitória_Visitante
+276,21,Internacional,1.0,São Paulo,1.0,2016,Empate
+303,35,Internacional,1.0,Ponte Preta,1.0,2016,Empate
+344,33,Internacional,1.0,Santa Cruz,1.0,2016,Empate
+262,31,Internacional,2.0,Flamengo,1.0,2016,Vitória_Mandante
+277,23,Internacional,2.0,Santos,1.0,2016,Vitória_Mandante
+327,7,Internacional,3.0,América-MG,1.0,2016,Vitória_Mandante
+266,19,Internacional,2.0,Fluminense,2.0,2016,Empate
+263,11,Internacional,2.0,Botafogo,3.0,2016,Vitória_Visitante
+283,30,Palmeiras,0.0,Cruzeiro,0.0,2016,Empate
+263,36,Palmeiras,1.0,Botafogo,0.0,2016,Vitória_Mandante
+264,7,Palmeiras,1.0,Corinthians,0.0,2016,Vitória_Mandante
+285,34,Palmeiras,1.0,Internacional,0.0,2016,Vitória_Mandante
+315,37,Palmeiras,1.0,Chapecoense,0.0,2016,Vitória_Mandante
+266,3,Palmeiras,2.0,Fluminense,0.0,2016,Vitória_Mandante
+327,10,Palmeiras,2.0,América-MG,0.0,2016,Vitória_Mandante
+293,1,Palmeiras,4.0,Atlético-PR,0.0,2016,Vitória_Mandante
+316,12,Palmeiras,4.0,Figueirense,0.0,2016,Vitória_Mandante
+282,16,Palmeiras,0.0,Atlético-MG,1.0,2016,Vitória_Visitante
+262,25,Palmeiras,1.0,Flamengo,1.0,2016,Empate
+277,14,Palmeiras,1.0,Santos,1.0,2016,Empate
+276,23,Palmeiras,2.0,São Paulo,1.0,2016,Vitória_Mandante
+287,19,Palmeiras,2.0,Vitória,1.0,2016,Vitória_Mandante
+292,32,Palmeiras,2.0,Sport,1.0,2016,Vitória_Mandante
+294,27,Palmeiras,2.0,Coritiba,1.0,2016,Vitória_Mandante
+344,9,Palmeiras,3.0,Santa Cruz,1.0,2016,Vitória_Mandante
+303,21,Palmeiras,2.0,Ponte Preta,2.0,2016,Empate
+284,5,Palmeiras,4.0,Grêmio,3.0,2016,Vitória_Mandante
+266,36,Ponte Preta,1.0,Fluminense,0.0,2016,Vitória_Mandante
+276,13,Ponte Preta,1.0,São Paulo,0.0,2016,Vitória_Mandante
+263,18,Ponte Preta,2.0,Botafogo,0.0,2016,Vitória_Mandante
+264,22,Ponte Preta,2.0,Corinthians,0.0,2016,Vitória_Mandante
+287,30,Ponte Preta,2.0,Vitória,0.0,2016,Vitória_Mandante
+294,38,Ponte Preta,2.0,Coritiba,0.0,2016,Vitória_Mandante
+316,20,Ponte Preta,2.0,Figueirense,0.0,2016,Vitória_Mandante
+284,25,Ponte Preta,3.0,Grêmio,0.0,2016,Vitória_Mandante
+344,31,Ponte Preta,3.0,Santa Cruz,0.0,2016,Vitória_Mandante
+327,24,Ponte Preta,1.0,América-MG,1.0,2016,Empate
+275,2,Ponte Preta,2.0,Palmeiras,1.0,2016,Vitória_Mandante
+292,14,Ponte Preta,2.0,Sport,1.0,2016,Vitória_Mandante
+315,7,Ponte Preta,2.0,Chapecoense,1.0,2016,Vitória_Mandante
+262,4,Ponte Preta,1.0,Flamengo,2.0,2016,Vitória_Visitante
+277,34,Ponte Preta,1.0,Santos,2.0,2016,Vitória_Visitante
+282,28,Ponte Preta,1.0,Atlético-MG,2.0,2016,Vitória_Visitante
+285,16,Ponte Preta,2.0,Internacional,2.0,2016,Empate
+293,8,Ponte Preta,3.0,Atlético-PR,2.0,2016,Vitória_Mandante
+283,10,Ponte Preta,0.0,Cruzeiro,4.0,2016,Vitória_Visitante
+285,14,Santa Cruz,1.0,Internacional,0.0,2016,Vitória_Mandante
+293,25,Santa Cruz,1.0,Atlético-PR,0.0,2016,Vitória_Mandante
+316,8,Santa Cruz,1.0,Figueirense,0.0,2016,Vitória_Mandante
+327,34,Santa Cruz,1.0,América-MG,0.0,2016,Vitória_Mandante
+262,10,Santa Cruz,0.0,Flamengo,1.0,2016,Vitória_Visitante
+263,32,Santa Cruz,0.0,Botafogo,1.0,2016,Vitória_Visitante
+266,21,Santa Cruz,0.0,Fluminense,1.0,2016,Vitória_Visitante
+292,5,Santa Cruz,0.0,Sport,1.0,2016,Vitória_Visitante
+294,16,Santa Cruz,0.0,Coritiba,1.0,2016,Vitória_Visitante
+283,3,Santa Cruz,4.0,Cruzeiro,1.0,2016,Vitória_Mandante
+287,1,Santa Cruz,4.0,Vitória,1.0,2016,Vitória_Mandante
+284,37,Santa Cruz,5.0,Grêmio,1.0,2016,Vitória_Mandante
+277,7,Santa Cruz,0.0,Santos,2.0,2016,Vitória_Visitante
+276,19,Santa Cruz,1.0,São Paulo,2.0,2016,Vitória_Visitante
+315,23,Santa Cruz,2.0,Chapecoense,2.0,2016,Empate
+303,12,Santa Cruz,0.0,Ponte Preta,3.0,2016,Vitória_Visitante
+275,28,Santa Cruz,2.0,Palmeiras,3.0,2016,Vitória_Visitante
+282,36,Santa Cruz,3.0,Atlético-MG,3.0,2016,Empate
+264,30,Santa Cruz,2.0,Corinthians,4.0,2016,Vitória_Visitante
+262,18,Santos,0.0,Flamengo,0.0,2016,Empate
+275,33,Santos,1.0,Palmeiras,0.0,2016,Vitória_Mandante
+327,38,Santos,1.0,América-MG,0.0,2016,Vitória_Mandante
+283,17,Santos,2.0,Cruzeiro,0.0,2016,Vitória_Mandante
+292,8,Santos,2.0,Sport,0.0,2016,Vitória_Mandante
+293,28,Santos,2.0,Atlético-PR,0.0,2016,Vitória_Mandante
+263,6,Santos,3.0,Botafogo,0.0,2016,Vitória_Mandante
+276,11,Santos,3.0,São Paulo,0.0,2016,Vitória_Mandante
+282,20,Santos,3.0,Atlético-MG,0.0,2016,Vitória_Mandante
+315,13,Santos,3.0,Chapecoense,0.0,2016,Vitória_Mandante
+285,4,Santos,0.0,Internacional,1.0,2016,Vitória_Visitante
+316,22,Santos,0.0,Figueirense,1.0,2016,Vitória_Visitante
+284,31,Santos,1.0,Grêmio,1.0,2016,Empate
+264,24,Santos,2.0,Corinthians,1.0,2016,Vitória_Mandante
+266,29,Santos,2.0,Fluminense,1.0,2016,Vitória_Mandante
+294,2,Santos,2.0,Coritiba,1.0,2016,Vitória_Mandante
+303,15,Santos,3.0,Ponte Preta,1.0,2016,Vitória_Mandante
+287,35,Santos,3.0,Vitória,2.0,2016,Vitória_Mandante
+344,26,Santos,3.0,Santa Cruz,2.0,2016,Vitória_Mandante
+262,28,São Paulo,0.0,Flamengo,0.0,2016,Empate
+292,10,São Paulo,0.0,Sport,0.0,2016,Empate
+294,22,São Paulo,0.0,Coritiba,0.0,2016,Empate
+275,4,São Paulo,1.0,Palmeiras,0.0,2016,Vitória_Mandante
+283,25,São Paulo,1.0,Cruzeiro,0.0,2016,Vitória_Mandante
+287,8,São Paulo,2.0,Vitória,0.0,2016,Vitória_Mandante
+303,32,São Paulo,2.0,Ponte Preta,0.0,2016,Vitória_Mandante
+327,14,São Paulo,3.0,América-MG,0.0,2016,Vitória_Mandante
+264,34,São Paulo,4.0,Corinthians,0.0,2016,Vitória_Mandante
+344,38,São Paulo,5.0,Santa Cruz,0.0,2016,Vitória_Mandante
+263,20,São Paulo,0.0,Botafogo,1.0,2016,Vitória_Visitante
+277,30,São Paulo,0.0,Santos,1.0,2016,Vitória_Visitante
+284,35,São Paulo,1.0,Grêmio,1.0,2016,Empate
+266,12,São Paulo,2.0,Fluminense,1.0,2016,Vitória_Mandante
+316,24,São Paulo,3.0,Figueirense,1.0,2016,Vitória_Mandante
+282,18,São Paulo,1.0,Atlético-MG,2.0,2016,Vitória_Visitante
+285,2,São Paulo,1.0,Internacional,2.0,2016,Vitória_Visitante
+293,7,São Paulo,1.0,Atlético-PR,2.0,2016,Vitória_Visitante
+315,17,São Paulo,2.0,Chapecoense,2.0,2016,Empate
+262,20,Sport,1.0,Flamengo,0.0,2016,Vitória_Mandante
+277,27,Sport,1.0,Santos,0.0,2016,Vitória_Mandante
+287,31,Sport,1.0,Vitória,0.0,2016,Vitória_Mandante
+303,33,Sport,1.0,Ponte Preta,0.0,2016,Vitória_Mandante
+293,17,Sport,2.0,Atlético-PR,0.0,2016,Vitória_Mandante
+316,38,Sport,2.0,Figueirense,0.0,2016,Vitória_Mandante
+283,35,Sport,0.0,Cruzeiro,1.0,2016,Vitória_Visitante
+294,26,Sport,0.0,Coritiba,1.0,2016,Vitória_Visitante
+263,2,Sport,1.0,Botafogo,1.0,2016,Empate
+276,29,Sport,1.0,São Paulo,1.0,2016,Empate
+285,22,Sport,1.0,Internacional,1.0,2016,Empate
+327,18,Sport,1.0,América-MG,1.0,2016,Empate
+266,9,Sport,2.0,Fluminense,1.0,2016,Vitória_Mandante
+315,11,Sport,5.0,Chapecoense,1.0,2016,Vitória_Mandante
+264,4,Sport,0.0,Corinthians,2.0,2016,Vitória_Visitante
+284,15,Sport,4.0,Grêmio,2.0,2016,Vitória_Mandante
+275,13,Sport,1.0,Palmeiras,3.0,2016,Vitória_Visitante
+344,24,Sport,5.0,Santa Cruz,3.0,2016,Vitória_Mandante
+282,6,Sport,4.0,Atlético-MG,4.0,2016,Empate
+266,14,Vitória,0.0,Fluminense,0.0,2016,Empate
+285,6,Vitória,1.0,Internacional,0.0,2016,Vitória_Mandante
+276,27,Vitória,2.0,São Paulo,0.0,2016,Vitória_Mandante
+316,36,Vitória,4.0,Figueirense,0.0,2016,Vitória_Mandante
+263,26,Vitória,0.0,Botafogo,1.0,2016,Vitória_Visitante
+283,32,Vitória,0.0,Cruzeiro,1.0,2016,Vitória_Visitante
+284,29,Vitória,0.0,Grêmio,1.0,2016,Vitória_Visitante
+282,4,Vitória,1.0,Atlético-MG,1.0,2016,Empate
+303,11,Vitória,1.0,Ponte Preta,1.0,2016,Empate
+327,22,Vitória,2.0,América-MG,1.0,2016,Vitória_Mandante
+294,18,Vitória,3.0,Coritiba,1.0,2016,Vitória_Mandante
+262,24,Vitória,1.0,Flamengo,2.0,2016,Vitória_Visitante
+275,38,Vitória,1.0,Palmeiras,2.0,2016,Vitória_Visitante
+315,9,Vitória,1.0,Chapecoense,2.0,2016,Vitória_Visitante
+344,20,Vitória,2.0,Santa Cruz,2.0,2016,Empate
+264,2,Vitória,3.0,Corinthians,2.0,2016,Vitória_Mandante
+292,12,Vitória,3.0,Sport,2.0,2016,Vitória_Mandante
+293,34,Vitória,3.0,Atlético-PR,2.0,2016,Vitória_Mandante
+277,16,Vitória,2.0,Santos,3.0,2016,Vitória_Visitante

@@ -33,7 +33,7 @@
 31,285,27,Atlético-MG,3.0,Internacional,1.0,2016,Vitória_Mandante,Vitória_Mandante
 32,315,19,Atlético-MG,3.0,Chapecoense,1.0,2016,Vitória_Mandante,Vitória_Mandante
 33,276,37,Atlético-MG,1.0,São Paulo,2.0,2016,Vitória_Visitante,Vitória_Visitante
-34,262,33,Atlético-MG,2.0,Flamengo,2.0,2016,Empate,Empate
+34,262,33,Atlético-MG,2.0,Flamengo,2.0,2016,Empate,Vitória_Visitante
 35,284,3,Atlético-MG,0.0,Grêmio,3.0,2016,Vitória_Visitante,Vitória_Visitante
 36,283,7,Atlético-MG,2.0,Cruzeiro,3.0,2016,Vitória_Visitante,Vitória_Visitante
 37,263,12,Atlético-MG,5.0,Botafogo,3.0,2016,Vitória_Mandante,Vitória_Mandante
@@ -74,7 +74,7 @@
 72,327,8,Botafogo,3.0,América-MG,1.0,2016,Vitória_Mandante,Vitória_Mandante
 73,315,35,Botafogo,0.0,Chapecoense,2.0,2016,Vitória_Visitante,Vitória_Visitante
 74,282,31,Botafogo,3.0,Atlético-MG,2.0,2016,Vitória_Mandante,Vitória_Mandante
-75,262,15,Botafogo,3.0,Flamengo,3.0,2016,Empate,Empate
+75,262,15,Botafogo,3.0,Flamengo,3.0,2016,Empate,Vitória_Mandante
 76,266,6,Chapecoense,0.0,Fluminense,0.0,2016,Empate,Empate
 77,293,10,Chapecoense,0.0,Atlético-PR,0.0,2016,Empate,Empate
 78,285,20,Chapecoense,1.0,Internacional,0.0,2016,Vitória_Mandante,Vitória_Mandante
@@ -91,7 +91,7 @@
 89,303,26,Chapecoense,2.0,Ponte Preta,2.0,2016,Empate,Empate
 90,283,12,Chapecoense,3.0,Cruzeiro,2.0,2016,Vitória_Mandante,Vitória_Mandante
 91,262,22,Chapecoense,1.0,Flamengo,3.0,2016,Vitória_Visitante,Vitória_Visitante
-92,284,8,Chapecoense,3.0,Grêmio,3.0,2016,Empate,Empate
+92,284,8,Chapecoense,3.0,Grêmio,3.0,2016,Empate,Vitória_Mandante
 93,287,28,Chapecoense,1.0,Vitória,4.0,2016,Vitória_Visitante,Vitória_Visitante
 94,282,29,Corinthians,0.0,Atlético-MG,0.0,2016,Empate,Empate
 95,284,1,Corinthians,0.0,Grêmio,0.0,2016,Empate,Empate
@@ -243,7 +243,7 @@
 241,262,31,Internacional,2.0,Flamengo,1.0,2016,Vitória_Mandante,Vitória_Mandante
 242,277,23,Internacional,2.0,Santos,1.0,2016,Vitória_Mandante,Vitória_Mandante
 243,327,7,Internacional,3.0,América-MG,1.0,2016,Vitória_Mandante,Vitória_Mandante
-244,266,19,Internacional,2.0,Fluminense,2.0,2016,Empate,Empate
+244,266,19,Internacional,2.0,Fluminense,2.0,2016,Empate,Vitória_Mandante
 245,263,11,Internacional,2.0,Botafogo,3.0,2016,Vitória_Visitante,Vitória_Visitante
 246,283,30,Palmeiras,0.0,Cruzeiro,0.0,2016,Empate,Empate
 247,263,36,Palmeiras,1.0,Botafogo,0.0,2016,Vitória_Mandante,Vitória_Mandante
@@ -280,7 +280,7 @@
 278,262,4,Ponte Preta,1.0,Flamengo,2.0,2016,Vitória_Visitante,Vitória_Visitante
 279,277,34,Ponte Preta,1.0,Santos,2.0,2016,Vitória_Visitante,Vitória_Visitante
 280,282,28,Ponte Preta,1.0,Atlético-MG,2.0,2016,Vitória_Visitante,Vitória_Visitante
-281,285,16,Ponte Preta,2.0,Internacional,2.0,2016,Empate,Empate
+281,285,16,Ponte Preta,2.0,Internacional,2.0,2016,Empate,Vitória_Mandante
 282,293,8,Ponte Preta,3.0,Atlético-PR,2.0,2016,Vitória_Mandante,Vitória_Mandante
 283,283,10,Ponte Preta,0.0,Cruzeiro,4.0,2016,Vitória_Visitante,Vitória_Visitante
 284,285,14,Santa Cruz,1.0,Internacional,0.0,2016,Vitória_Mandante,Vitória_Mandante
@@ -300,7 +300,7 @@
 298,315,23,Santa Cruz,2.0,Chapecoense,2.0,2016,Empate,Empate
 299,303,12,Santa Cruz,0.0,Ponte Preta,3.0,2016,Vitória_Visitante,Vitória_Visitante
 300,275,28,Santa Cruz,2.0,Palmeiras,3.0,2016,Vitória_Visitante,Vitória_Visitante
-301,282,36,Santa Cruz,3.0,Atlético-MG,3.0,2016,Empate,Empate
+301,282,36,Santa Cruz,3.0,Atlético-MG,3.0,2016,Empate,Vitória_Mandante
 302,264,30,Santa Cruz,2.0,Corinthians,4.0,2016,Vitória_Visitante,Vitória_Visitante
 303,262,18,Santos,0.0,Flamengo,0.0,2016,Empate,Empate
 304,275,33,Santos,1.0,Palmeiras,0.0,2016,Vitória_Mandante,Vitória_Mandante
@@ -358,7 +358,7 @@
 356,284,15,Sport,4.0,Grêmio,2.0,2016,Vitória_Mandante,Vitória_Mandante
 357,275,13,Sport,1.0,Palmeiras,3.0,2016,Vitória_Visitante,Vitória_Visitante
 358,344,24,Sport,5.0,Santa Cruz,3.0,2016,Vitória_Mandante,Vitória_Mandante
-359,282,6,Sport,4.0,Atlético-MG,4.0,2016,Empate,Empate
+359,282,6,Sport,4.0,Atlético-MG,4.0,2016,Empate,Vitória_Mandante
 360,266,14,Vitória,0.0,Fluminense,0.0,2016,Empate,Empate
 361,285,6,Vitória,1.0,Internacional,0.0,2016,Vitória_Mandante,Vitória_Mandante
 362,276,27,Vitória,2.0,São Paulo,0.0,2016,Vitória_Mandante,Vitória_Mandante
